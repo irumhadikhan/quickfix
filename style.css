@@ -1,0 +1,49 @@
+body {
+    background-color:rgb(198, 186, 212);
+    text-align:center;
+}
+
+h1, h2 {
+    font-size: 50px;
+    color:rgb(7, 3, 236);
+}
+
+ul {
+    font-size: 30px;
+    color:blue;
+}
+
+p {
+    font-size: 20px;
+    color:blue;
+}
+
+img {
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: white;
+}
+
+.number {
+    color:blue (22, 6, 39);
+}
+
+.banner {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    
+}
+
+#navbar{
+    display: flex;
+    font-size: 20px;
+    background-color: rgb(27, 8, 71);
+    padding: 50px;   
+    font-family:Arial, Helvetica, sans-serif;
+    justify-content: space-evenly;
+    padding: 50px;
+    align-items: center;   
+}
